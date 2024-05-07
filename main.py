@@ -30,10 +30,10 @@ status = ['online', 'dnd', 'idle']
 ############################################ Change here
 
 GAME = "MY TEXT2"  # enter what you want the status to be
-type_ = types[0]  # 0: Playing, 1: Streaming, 2: Watching, 3: Listening
+type_ = types[2]  # 0: Playing, 1: Streaming, 2: Watching, 3: Listening
 status = status[0]  # 0: Online, 1: Do Not Disturb, 2: Idle
-random_ = True  # True: Random status and type, False: Game status and type
-stream_text = "MY TEXT"  # enter what you want the stream to be
+random_ = False  # True: Random status and type, False: Game status and type
+stream_text = "discord.gg/dmnet"  # enter what you want the stream to be
 
 ############################################ Stop changing here
 
